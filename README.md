@@ -1,3 +1,5 @@
+<img width="1880" height="888" alt="Captura de tela 2025-08-28 205113" src="https://github.com/user-attachments/assets/d8c5bc0b-5666-4fb4-980d-6de6e189ca19" />
+
 #  expert-notes-NLW
 
 ## 1. Objetivo do projeto
@@ -26,3 +28,10 @@ Foi implementada uma aplicação funcional, com interface responsiva e intuitiva
 - Gerar deploy online (por exemplo, via GitHub Pages ou Vercel) para demonstrar o uso real  
 - Incluir suporte a anotações por voz com reconhecimento de fala, usando Web Speech API  
 - Adicionar filtros ou busca por notas, além de ordenar ou categorizar conteúdos
+
+## Passo a passo da execução
+
+- Clone o repositório
+- No terminal, insira: "npm install -D vite"
+- depois insira : "npm run dev"
+- Um servidor ira aparecer para execução do projeto.
